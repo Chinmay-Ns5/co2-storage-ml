@@ -280,12 +280,3 @@ pip install -r requirements.txt
 
 ---
 
-## 👤 Author
-
-**Chinmay N S**
-B.E. Artificial Intelligence & Machine Learning — PES University, Bengaluru (Class of 2028)
-[github.com/Chinmay-Ns5](https://github.com/Chinmay-Ns5)
-
----
-
-*Concept validation prototype. Not intended for regulatory decision-making. All training data is synthetic.*
